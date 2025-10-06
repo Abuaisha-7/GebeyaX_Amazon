@@ -1,4 +1,5 @@
-Amazon Clone
+GebeyaX_Amazon
+
 
 A modern e-commerce web application with a React frontend and Node.js backend, including Firebase integration for hosting and serverless functions. This project showcases core shopping flows such as product browsing, search, cart, checkout, orders, and authentication.
 
@@ -83,8 +84,8 @@ Amazon Clone/
 
 ### 1) Clone the repository
 ```bash
-git clone <your-repo-url>.git
-cd "Amazon Clone"
+git clone https://github.com/Abuaisha-7/GebeyaX_Amazon.git
+cd "GebeyaX_Amazon"
 ```
 
 ### 2) Backend setup
